@@ -41,7 +41,14 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+
+    '@nuxtjs/sitemap',
   ],
+
+  sitemap: {
+    hostname: 'https://r4s.xyz',
+    gzip: true,
+  },
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
