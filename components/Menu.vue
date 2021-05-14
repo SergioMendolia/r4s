@@ -4,9 +4,8 @@
       <div class="flex items-center justify-between h-16">
         <div class="flex items-center">
           <div class="block">
-            <div class="ml-10 flex items-baseline space-x-4">
+            <div class="flex items-baseline space-x-4">
               <nuxt-link to="/" class="menu-item">Roll For Scenario</nuxt-link>
-
               <nuxt-link to="/legal" class="menu-item">Legal</nuxt-link>
             </div>
           </div>
