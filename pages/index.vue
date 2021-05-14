@@ -36,7 +36,9 @@ export default {
   async asyncData({ $content }) {
     return {
       editions: await $content('editions').sortBy('actual', 'desc').fetch(),
-      scenarios: await $content('scenarios', { deep: true }).fetch(),
+      scenarios: await $content('scenarios', { deep: true })
+        .sortBy('title', 'asc')
+        .fetch(),
     }
   },
   methods: {

@@ -1,0 +1,7 @@
+{
+  "edition": "brawlmachine",
+  "title": "Scenario 1: Orbits",
+  "killbox": "YES",
+  "special": "Place the flags and zones as shown. Killbox is 12 inches from the back edge as per the usual Steamroller document, however Killboxing yourself only gives your opponent 1 point instead of the regular 2. See the Steamroller Document for specifics regarding Killbox. Player 1 deploys at the 7 inch mark for regular deployment and 13 inch mark for advanced deploymentPlayer 2 deploys at the 10 inch mark for regular deployment and 16 inch mark for advanced deployment.",
+  "image": "bm-orbits.png"
+}
