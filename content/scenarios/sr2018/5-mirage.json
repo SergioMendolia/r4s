@@ -1,0 +1,8 @@
+
+    {
+      "edition": "sr2018",
+      "killbox": "YES",
+      "title": "Scenario 5: Mirage",
+      "special": "<p>Mark two circular zones (12\" diameter) and place three flags and two objectives in accordance with the diagram below. Starting on the second player's second turn, at the end of each player's turn, a player earns control points (CP) as follows: </p> <ul> <li><b>Zone: Control = 1 CP</b></li><li><b>Flag:Control = 1 CP</b></li><li><b>Enemy Objective:Destroyed/Removed from Play = 1 CP (once per objective)</b></li></ul>",
+      "image": "scenario5-2018.png"
+    }
