@@ -1,0 +1,10 @@
+{
+  "name": "r4s",
+  "short_name": "r4s",
+  "description": "Random Warmachine Horde scenario picker for various editions",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}
