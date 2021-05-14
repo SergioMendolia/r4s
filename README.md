@@ -1,4 +1,5 @@
-# r4s
+# r4s - Roll for Scenario 
+Random Warmachine Horde scenario picker for various editions
 
 ## Build Setup
 
@@ -16,5 +17,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
