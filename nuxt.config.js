@@ -46,7 +46,7 @@ export default {
   ],
 
   sitemap: {
-    hostname: 'https://r4s.xyz',
+    hostname: 'https://rollforscenar.io',
     gzip: true,
   },
 
