@@ -43,6 +43,7 @@ export default {
     '@nuxt/content',
 
     '@nuxtjs/sitemap',
+    ['nuxt-matomo', { matomoUrl: '//matomo.mendolia.xyz/', siteId: 1 }],
   ],
 
   sitemap: {
