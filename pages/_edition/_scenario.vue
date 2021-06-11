@@ -5,9 +5,16 @@
     </h1>
     <div class="scenario">
       <div class="grid md:grid-cols-2 grid-cols-1 gap-6">
-        <div><img :src="`/img/${scenario.image}`" /></div>
+        <div><img :src="`/img/${scenario.image}`" class="w-full" /></div>
         <div v-html="scenario.special" class="text-lg"></div>
       </div>
+      <nuxt-link
+        :to="`/${scenario.edition}`"
+        rel="nofollow noindex"
+        class="btn m-4"
+      >
+        Roll another {{ edition.name }} scenario
+      </nuxt-link>
     </div>
   </div>
 </template>
@@ -32,6 +39,11 @@ export default {
         {
           hid: 'description',
           name: 'description',
+          content: `${this.scenario.title} - ${this.scenario.special}`,
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
           content: `${this.scenario.title} - ${this.scenario.special}`,
         },
       ],

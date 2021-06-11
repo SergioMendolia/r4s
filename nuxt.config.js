@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'R4S - Roll for scenario',
+    title: 'Roll for scenario',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -12,7 +12,13 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'Roll a Warmachine/Horde Steamroller or BrawlMachine scenario for your games!',
+          'Roll a random Warmachine/Horde Steamroller or BrawlMachine scenario for your games!',
+      },
+      {
+        hid: 'og:description',
+        name: 'og:description',
+        content:
+          'Roll a random Warmachine/Horde Steamroller or BrawlMachine scenario for your games!',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
