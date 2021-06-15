@@ -6,7 +6,7 @@
     <div class="scenario">
       <div class="grid md:grid-cols-2 grid-cols-1 gap-6">
         <div><img :src="`/img/${scenario.image}`" class="w-full" /></div>
-        <div v-html="scenario.special" class="text-lg"></div>
+        <div class="text-lg" v-html="scenario.special"></div>
       </div>
       <nuxt-link
         :to="`/${scenario.edition}`"

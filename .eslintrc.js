@@ -4,9 +4,8 @@ module.exports = {
     browser: true,
     node: true,
   },
-  parserOptions: {
-    parser: 'babel-eslint',
-  },
+  parser: 'vue-eslint-parser',
+  parserOptions: {},
   extends: [
     '@nuxtjs',
     'plugin:prettier/recommended',
@@ -14,5 +13,7 @@ module.exports = {
   ],
   plugins: [],
   // add your custom rules here
-  rules: {},
+  rules: {
+    'vue/no-v-html': 0,
+  },
 }

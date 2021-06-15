@@ -16,7 +16,8 @@
     "@nuxtjs/sitemap": "^2.4",
     "core-js": "^3.14",
     "nuxt": "^2.2",
-    "nuxt-matomo": "^1.2"
+    "nuxt-matomo": "^1.2",
+    "vue-eslint-parser": "^7.6.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14",

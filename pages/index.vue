@@ -12,7 +12,7 @@
       >
         <h2>{{ edition.name }}</h2>
 
-        <p v-html="edition.description" class="description"></p>
+        <p class="description" v-html="edition.description"></p>
         <ul class="scenarios">
           <li
             v-for="scenario in scenariosByEdition(edition.id)"
