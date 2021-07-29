@@ -17,7 +17,7 @@
     "core-js": "^3.15",
     "nuxt": "^2.2",
     "nuxt-matomo": "^1.2",
-    "vue-eslint-parser": "^7.9.0"
+    "vue-eslint-parser": "^7.10.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14",
