@@ -15,7 +15,7 @@
     "@nuxtjs/pwa": "^3.3",
     "@nuxtjs/sitemap": "^2.4",
     "core-js": "^3.16",
-    "nuxt": "^2.2",
+    "nuxt": "^2.15",
     "nuxt-matomo": "^1.2",
     "vue-eslint-parser": "^7.10.0"
   },
