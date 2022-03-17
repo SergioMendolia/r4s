@@ -30,6 +30,6 @@
     "eslint-plugin-prettier": "^4.0",
     "eslint-plugin-vue": "^8.5",
     "postcss": "^8.4",
-    "prettier": "^2.5"
+    "prettier": "^2.6"
   }
 }
