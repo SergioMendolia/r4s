@@ -13,10 +13,8 @@
   "dependencies": {
     "@nuxt/content": "^1.15",
     "@nuxtjs/pwa": "^3.3",
-    "@nuxtjs/sitemap": "^2.4",
     "core-js": "^3.21",
     "nuxt": "^2.13",
-    "nuxt-matomo": "^1.2",
     "vue-eslint-parser": "^8.3"
   },
   "devDependencies": {
@@ -30,6 +28,6 @@
     "eslint-plugin-prettier": "^4.0",
     "eslint-plugin-vue": "^8.5",
     "postcss": "^8.4",
-    "prettier": "^2.5"
+    "prettier": "^2.6"
   }
 }

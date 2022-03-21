@@ -47,9 +47,6 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
-
-    '@nuxtjs/sitemap',
-    ['nuxt-matomo', { matomoUrl: '//matomo.mendolia.xyz/', siteId: 1 }],
   ],
 
   sitemap: {
