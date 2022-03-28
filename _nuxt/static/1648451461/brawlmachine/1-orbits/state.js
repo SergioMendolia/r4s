@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1648451461",layout:"default",error:a,serverRendered:true,routePath:"\u002Fbrawlmachine\u002F1-orbits",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"c3b71f22"}}}}(null));
