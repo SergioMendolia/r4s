@@ -4,11 +4,11 @@ on:
   push:
     branches:
       - main
-      - master
+      - upgrade_node_16
   pull_request:
     branches:
       - main
-      - master
+      - upgrade_node_16
 
 jobs:
   ci:
