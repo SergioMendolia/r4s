@@ -44,5 +44,5 @@ jobs:
         run: npm run lint
 
       - name: Test generation
-        run: npm run generate
+        run: npm run generate --fail-on-error
 
