@@ -27,7 +27,7 @@ jobs:
         run: npm ci
 
       - name: Generate
-        run: npm run generate
+        run: npm run generate --fail-on-error
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

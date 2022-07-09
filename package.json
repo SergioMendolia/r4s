@@ -11,7 +11,7 @@
     "lint": "npm run lint:js"
   },
   "dependencies": {
-    "@nuxt/content": "^1.15.1",
+    "@nuxt/content": "^1.15",
     "@nuxtjs/pwa": "^3.3",
     "core-js": "^3.23",
     "nuxt": "^2.13",
@@ -19,14 +19,14 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.18",
-    "@nuxtjs/eslint-config": "^10.0.0",
+    "@nuxtjs/eslint-config": "^10.0",
     "@nuxtjs/eslint-module": "^3.1",
     "@nuxtjs/tailwindcss": "^5.1",
     "eslint": "^8.19",
     "eslint-config-prettier": "^8.5",
     "eslint-plugin-nuxt": "^3.2",
     "eslint-plugin-prettier": "^4.2",
-    "eslint-plugin-vue": "^9.2.0",
+    "eslint-plugin-vue": "^9.2",
     "postcss": "^8.4",
     "prettier": "^2.7"
   }
