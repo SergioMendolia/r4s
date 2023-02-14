@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxt/content": "^1.15",
     "@nuxtjs/pwa": "^3.3",
-    "core-js": "^3.27",
+    "core-js": "^3.28",
     "nuxt": "^2.16",
     "vue-eslint-parser": "^9.1"
   },
