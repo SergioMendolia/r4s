@@ -15,7 +15,7 @@
     "@nuxtjs/pwa": "^3.3",
     "core-js": "^3.30",
     "nuxt": "^2.16",
-    "vue-eslint-parser": "^9.1"
+    "vue-eslint-parser": "^9.2"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.21",
